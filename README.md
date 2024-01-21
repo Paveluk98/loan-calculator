@@ -2,6 +2,7 @@
 
 <i><strong>This is a simple loan calculator application where you can see what your monthly payment plan is based on the loan conditions provided in the fields.
 <br>
+<br>
 "Loan Amount $" = The size of the loan amount in USD.
 <br>
 "Interest rate %" = The interest rate on the amount you took out.
